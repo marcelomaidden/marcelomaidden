@@ -24,7 +24,7 @@ I am a passionate developer eager to learn and looking for new career opportunit
 * Ruby
 * Rails
 
-# I have knowledge in some languages, frameworks and technologies 
+# I have knowledge in some languages, frameworks, and technologies 
 * Python
     * and its framework Django
 * Javascript
