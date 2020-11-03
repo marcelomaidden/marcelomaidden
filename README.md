@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 I am a passionate developer eager to learn and looking for new career opportunities to help on development teams.
 
 # I'm currently learning the list below at [Microverse](https://www.microverse.org/)
-* HTML
-* CSS
+* HTML and CSS [Certificate](https://www.credential.net/ae40e755-6ab1-49bb-ab91-44367167fa53)
 * Javascript
 * Ruby
 * Rails
+* React
+* Redux
 
 # I have knowledge in some languages, frameworks, and technologies 
 * Python
