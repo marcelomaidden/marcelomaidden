@@ -18,19 +18,21 @@ Here are some ideas to get you started:
 I am a passionate developer eager to learn and looking for new career opportunities to help on development teams.
 
 # I'm currently learning the list below at [Microverse](https://www.microverse.org/)
-* HTML and CSS [Certificate](https://www.credential.net/ae40e755-6ab1-49bb-ab91-44367167fa53)
-* Javascript
-* Ruby
+* HTML <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
+and CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+[Certificate](https://www.credential.net/ae40e755-6ab1-49bb-ab91-44367167fa53)
+* Javascript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+* Ruby <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
 * Rails
-* React
-* Redux
+* React <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+* Redux <img height="20" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
 
 # I have knowledge in some languages, frameworks, and technologies 
-* Python
+* Python <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     * and its framework Django
-* Javascript
+* Javascript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
     * and its framework React and Redux to store information
-* Docker
+* Docker <img height="20" src="https://banner2.cleanpng.com/20180604/hyj/kisspng-docker-yaml-github-repository-compos-5b14dcb9392900.5680028715280938812341.jpg" />
 
 # How to reach me
 - GitHub: [@marcelomaidden](https://github.com/marcelomaidden)
