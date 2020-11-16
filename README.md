@@ -37,4 +37,4 @@ and CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/8
 # How to reach me
 - GitHub: [@marcelomaidden](https://github.com/marcelomaidden)
 - Twitter: [@marcelomaidden](https://twitter.com/marcelomaidden)
-- LinkedIn: [Marcelo Fernandes de Araújo](https://www.linkedin.com/in/marcelo-fernandes-de-ara%C3%BAjo-56700a171/)
+- LinkedIn: [Marcelo Fernandes de Araújo](https://www.linkedin.com/in/marcelofernandesdearaujo)
