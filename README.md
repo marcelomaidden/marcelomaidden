@@ -23,7 +23,8 @@ and CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/8
 [Certificate](https://www.credential.net/ae40e755-6ab1-49bb-ab91-44367167fa53)
 * Javascript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 * Ruby <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
-* Rails
+[Certificate](https://www.credential.net/1d370b79-c995-4d4b-b2b5-4664d9d89c12#gs.od5qxe)
+* Rails [Certificate](https://www.credential.net/a40ab04f-b00a-4ba2-9919-4e032be54eb0#gs.od5l82)
 * React <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 * Redux <img height="20" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
 
