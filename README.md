@@ -21,7 +21,7 @@ I am a passionate developer eager to learn and looking for new career opportunit
 * HTML <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
 and CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 [Certificate](https://www.credential.net/ae40e755-6ab1-49bb-ab91-44367167fa53)
-* Javascript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+* Javascript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> [Certificate](https://www.credential.net/819d08ee-77b5-4a8c-8abd-6d375ed70629)
 * Ruby <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
 [Certificate](https://www.credential.net/1d370b79-c995-4d4b-b2b5-4664d9d89c12#gs.od5qxe)
 * Rails [Certificate](https://www.credential.net/a40ab04f-b00a-4ba2-9919-4e032be54eb0#gs.od5l82)
