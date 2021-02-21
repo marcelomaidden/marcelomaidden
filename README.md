@@ -38,7 +38,7 @@ and CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/8
 * Redux <img height="20" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
 
 [![marcelomaidden's github stats](https://github-readme-stats.vercel.app/api?username=marcelomaidden)](https://github.com/marcelomaidden/github-readme-stats)
-
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomaidden)](https://github.com/marcelomaidden/github-readme-stats)
 # How to reach me
 - GitHub: [@marcelomaidden](https://github.com/marcelomaidden)
 - Twitter: [@marcelomaidden](https://twitter.com/marcelomaidden)
