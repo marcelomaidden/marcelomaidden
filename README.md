@@ -32,10 +32,9 @@ and CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/8
 * Python <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     * and its framework Django
 * Javascript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-    * and its framework React and Redux to store information
+    * React <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+    * Redux <img height="20" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
 * Docker <img height="20" src="https://banner2.cleanpng.com/20180604/hyj/kisspng-docker-yaml-github-repository-compos-5b14dcb9392900.5680028715280938812341.jpg" />
-* React <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-* Redux <img height="20" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
 
 [![marcelomaidden's github stats](https://github-readme-stats.vercel.app/api?username=marcelomaidden)](https://github.com/marcelomaidden/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomaidden&layout=compact)](https://github.com/marcelomaidden/github-readme-stats)
