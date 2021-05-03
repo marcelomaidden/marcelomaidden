@@ -28,6 +28,7 @@ and CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/8
 * React <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 * Redux <img height="20" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
 [React and Redux certificate](https://www.credential.net/a222923a-66e5-4103-8606-ae842010a92a)
+
 [Full stack developer certificate](https://www.credential.net/c5878784-7716-4a83-8ad6-f2521d85cc5d)
 
 # I have knowledge in some languages, frameworks, and technologies 
